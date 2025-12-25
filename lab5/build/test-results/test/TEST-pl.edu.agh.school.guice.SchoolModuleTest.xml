@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.school.guice.SchoolModuleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-18T15:14:01" hostname="JAKUBWOREK" time="0.024">
+  <properties/>
+  <testcase name="testLoggerIsInstantiatedOnlyOnce()" classname="pl.edu.agh.school.guice.SchoolModuleTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
